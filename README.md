@@ -23,7 +23,7 @@ Al momento de ejecutar la aplicación, se puede observar el siguiente menú:
 
 ---
 
-*Estrcutura del proyecto
+* Estrcutura del proyecto
 
 src/
 └── com/aluracursos/conversorMonedas/
