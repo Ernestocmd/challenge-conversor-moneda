@@ -28,10 +28,16 @@ Al momento de ejecutar la aplicación, se puede observar el siguiente menú:
 src/
 └── com/aluracursos/conversorMonedas/
 ├── principal/
-│ └── Principal.java ← Clase con método main()
+│ └── Principal.java
 ├── logica/
-│ ├── ConversorApp.java ← Orquesta la carga y ejecución
-│ ├── ConversorMonedas.java ← Lógica del menú y conversión
-│ └── MenuInteractivo.java ← Entrada y validación del usuario
+│ ├── ConversorApp.java
+│ ├── ConversorMonedas.java 
+│ └── MenuInteractivo.java
 └── models/
-└── ExchangeApiResponse.java ← Modelo para leer JSON desde la API
+└── ExchangeApiResponse.java
+
+![image](https://github.com/user-attachments/assets/93ebf2e6-f741-4e22-a415-cb377bc0e6f8)
+
+
+En la captura se puede observar como se escoge la primera opción que es USD -> ARS, colocando 1000 USD para convertir a peso argentino que da un resultado de 1139830.00 ARS.
+
