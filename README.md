@@ -4,7 +4,7 @@ Bienvenido a mi proyecto de conversor de monedas desarrollado en **Java** como p
 
 ---
 
-##Funcionalidades
+* Funcionalidades
 
 ✅ Posee un menú interactivo de 6 conversiones fijas y 1 opción para salir.
 ✅ Cálculos en tiempo real.
@@ -13,7 +13,7 @@ Bienvenido a mi proyecto de conversor de monedas desarrollado en **Java** como p
 
 ---
 
-#Interfaz del usuario
+* Interfaz del usuario
 
 Al momento de ejecutar la aplicación, se puede observar el siguiente menú:
 
@@ -23,7 +23,7 @@ Al momento de ejecutar la aplicación, se puede observar el siguiente menú:
 
 ---
 
-##Estrcutura del proyecto
+*Estrcutura del proyecto
 
 src/
 └── com/aluracursos/conversorMonedas/
